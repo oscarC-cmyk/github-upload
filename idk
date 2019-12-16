@@ -1,6 +1,4 @@
-echo "# github-upload" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
+
 git remote add origin https://github.com/oscarC-cmyk/github-upload.git
-git push -u origin master
+Type git add .
+Type git commit -m "initializing repository"
