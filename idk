@@ -1,4 +1,4 @@
-
+touch .gitignore
 git remote add origin https://github.com/oscarC-cmyk/github-upload.git
 Type git add .
 Type git commit -m "initializing repository"
